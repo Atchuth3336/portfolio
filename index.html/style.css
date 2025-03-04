@@ -1,0 +1,13 @@
+body{background-color: white;}
+h1{text-align: center;}
+h1{background-color:antiquewhite;}
+p {text-align: center;}
+img{width: 150px; border-radius: 75%;
+float: left;
+margin-right: 15px;}
+.text{font-weight:bold;
+font-size:large;
+color: black;}
+.self{font-weight: lighter;}
+.contact{text-align:center;}
+.education{text-align:center}
